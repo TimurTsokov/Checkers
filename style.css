@@ -83,7 +83,6 @@ body {
 .content__box-img-w:focus {
     background-color: transparent;
     box-shadow: 0 0 15px rgba(0, 0, 0, .8);
-
 }
 
 /*.clear{*/
